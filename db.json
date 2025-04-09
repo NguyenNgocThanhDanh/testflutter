@@ -1,9 +1,9 @@
 {
-  "users": [
+  "note": [
               {
                 "id": 1,
-                "name": "Nguyễn Văn An",
-                "email": "nguyenvanan@gmail.com",
+                "name": "Trần Văn An",
+                "email": "tranvanan@gmail.com",
                 "phone": "0912345678",
                 "avatar": "https://example.com/avatars/an.jpg",
                 "dateOfBirth": "1990-05-15T00:00:00.000Z"
